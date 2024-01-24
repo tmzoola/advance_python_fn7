@@ -29,7 +29,7 @@ def merge_sort(my_list):
             j+=1
             k+=1
             
-my_list = [38,27,43,3,9,82,10]
+my_list = [38,9,8,7,3,9494,49899,4359,985,986,9965,652,9]
 
 merge_sort(my_list)
 
