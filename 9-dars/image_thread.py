@@ -30,7 +30,7 @@ def image_download(img_url):
 
     with open(img_name, "wb") as img_file:
         img_file.write(img_bytes)
-        print(f"{img_name} is downloading")
+        print(f"{img_name} is downloading ....")
 
 
 # with concurrent.futures.ThreadPoolExecutor() as executor:
